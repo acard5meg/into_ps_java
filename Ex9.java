@@ -1,4 +1,5 @@
 /**
+ * From Chapter 7, p. 558
  * Removes duplicate characters from a string of lowercase letters
  */
 
